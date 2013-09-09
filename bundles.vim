@@ -73,7 +73,7 @@ Bundle 'kchmck/vim-coffee-script'
 Bundle 'nono/jquery.vim'
 " Bundle 'groenewege/vim-less'
 " Bundle 'wavded/vim-stylus'
-" Bundle 'nono/vim-handlebars'
+Bundle 'nono/vim-handlebars'
 
 "------- markup language -------
 Bundle 'tpope/vim-markdown'
